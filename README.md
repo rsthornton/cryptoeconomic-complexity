@@ -1,1 +1,1 @@
-# cryptoeconomic-complexity
+# Measuring Complexity in Cryptoeconomic Systems

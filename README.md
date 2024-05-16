@@ -17,7 +17,7 @@ Confirmed transactions represent a key output of public blockchain networks. Dai
 A [Python script](https://github.com/rsthornton/cryptoeconomic-complexity/blob/main/data/conversion.py) is employed to merge the energy and transaction datasets into a single dataset measuring **"daily transactions per watt."** This metric effectively captures fluctuations in significant inputs and outputs, providing a unified measure to assess the operational dynamics of these networks. 
 
 ### Complexity Analysis
-An information-theoretic, emergence-based measure of complexity, as detailed in the paper [Emergence in Artificial Life](https://direct.mit.edu/artl/article/29/2/153/114834/Emergence-in-Artificial-Life), is [applied to the integrated data](https://github.com/rsthornton/cryptoeconomic-complexity/blob/main/scripts/complexity.py). This methodology allows for the quantification of total complexity on various time scales and the tracking of cumulative complexity over time. 
+An information-theoretic, emergence-based measure of complexity, as detailed in the paper [Emergence in Artificial Life](https://direct.mit.edu/artl/article/29/2/153/114834/Emergence-in-Artificial-Life), is [applied to the integrated data](https://github.com/rsthornton/cryptoeconomic-complexity/blob/main/scripts/complexity_store.py). This methodology allows for the quantification of total complexity on various time scales and the tracking of cumulative complexity over time. 
 
 ### Code Implementation 
 The analysis is implemented using Python, leveraging libraries such as Pandas for data manipulation and Matplotlib for visualizing the results. The code is structured to facilitate reproducibility and further exploration by peers.

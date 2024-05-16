@@ -23,14 +23,16 @@ An information-theoretic, emergence-based measure of complexity, as detailed in 
 The analysis is implemented using Python, leveraging libraries such as Pandas for data manipulation and Matplotlib for visualizing the results. The code is structured to facilitate reproducibility and further exploration by peers.
 
 ## Initial Results
-![image](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/6193c05c-3741-4bd9-85c4-119d03b83247)
 
-![image](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/48c8e5a2-1dfb-4354-8872-699897a140bb)
+![btc_weekly_mkt_cap](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/54a3fe5e-21c3-453b-a099-777c7bcb6f14)
 
-![image](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/fd9567ba-d489-4629-a71c-a303ce220927)
+![btc_monthly_mkt_cap](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/7aabab97-4241-4013-bcca-7a0ea4620bf2)
 
-![image](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/a6c1dfb4-8861-4eab-aefd-da0b7dbae7c1)
-
+![btc_cumulative_mkt_cap](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/bbaf409e-a221-44c1-b305-247a05fe6765)
 
 
+![eth_weekly_mkt_cap](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/6f105afd-cd77-4aa1-b102-0ecc9791338f)
 
+![eth_monthly_mkt_cap](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/f88b9cd2-6df3-498b-a45d-0a9ed5884409)
+
+![eth_cumulative_mkt_cap](https://github.com/rsthornton/cryptoeconomic-complexity/assets/5001385/00d71b4a-4af4-4ce7-a6a3-568c54dba74d)
